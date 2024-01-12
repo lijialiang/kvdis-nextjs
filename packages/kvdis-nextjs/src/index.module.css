@@ -1,0 +1,50 @@
+.kvdis {
+  width: 100%;
+}
+
+.kvdis * {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  color: var(--kvdis-font-color);
+  font-size: .87rem;
+  line-height: 1.5rem;
+}
+
+.kvdis_title {
+  margin-bottom: 1rem;
+  width: 100%;
+  font-size: 1.25rem;
+  font-weight: 900;
+}
+
+.kvdis ul {
+  margin-top: 1rem;
+  width: 100%;
+  list-style: none;
+}
+
+.kvdis ul li {
+  padding: 1rem 0;
+}
+
+.kvdis ul li > p {
+  padding: .5rem 0;
+}
+
+.kvdis ul li > p > b {
+  margin-right: 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.kvdis ul li > p > span {
+  font-size: .8rem;
+  color: var(--kvdis-font-color-time);
+}
+
+.kvdis ul li > section {
+  padding: 1.2rem;
+  background-color: var(--kvdis-comment-background-color);
+  border-radius: var(--kvdis-border-radius);
+}

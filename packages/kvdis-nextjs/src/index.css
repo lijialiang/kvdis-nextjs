@@ -1,0 +1,15 @@
+:root {
+  --kvdis-font-color: #0E0E0E;
+  --kvdis-font-color-time: #8E8E8E;
+  --kvdis-border-color: #C0C0C0;
+  --kvdis-border-color-focus: #0E0E0E;
+  --kvdis-border-radius: 3px;
+  --kvdis-button-background-color: #FFFFFF;
+  --kvdis-button-background-color-hover: #0E0E0E;
+  --kvdis-button-border-color-hover: #0E0E0E;
+  --kvdis-button-font-color-hover: #F0F0F0;
+  --kvdis-button-background-color-active: #8E8E8E;
+  --kvdis-button-border-color-active: #8E8E8E;
+  --kvdis-button-font-color-active: #F0F0F0;
+  --kvdis-comment-background-color: #F6F6F6;
+}

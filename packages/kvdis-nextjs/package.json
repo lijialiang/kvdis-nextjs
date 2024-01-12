@@ -1,0 +1,39 @@
+{
+  "name": "kvdis-nextjs",
+  "version": "0.0.1",
+  "description": "lightweight alternative to Disqus",
+  "keywords": [
+    "react", "nextjs", "rsc", "vercel", "kv", "disqus", "comment", "kvdis"
+  ],
+  "main": "src/index.tsx",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvdis/kvdis-nextjs.git"
+  },
+  "author": "lijialiangdev@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kvdis/kvdis-nextjs/issues"
+  },
+  "homepage": "https://github.com/kvdis/kvdis-nextjs#readme",
+  "peerDependencies": {
+    "@vercel/kv": "^1.0.1",
+    "next": "^14.0.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "typescript": "^5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@vercel/kv": "^1.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "typescript": "^5"
+  }
+}
